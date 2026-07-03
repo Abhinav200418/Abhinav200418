@@ -1,16 +1,16 @@
 
-# Hi there 👋 I'm Abhinav
+# Hi there, I'm Abhinav
 
-🎯 **Aspiring Data Analyst** with hands-on experience in **Python, SQL, Power BI, Excel, and Machine Learning**, passionate about transforming raw data into actionable business insights and supporting data-driven decision-making.
+ **Aspiring Data Analyst** with hands-on experience in **Python, SQL, Power BI, Excel, and Machine Learning**, passionate about transforming raw data into actionable business insights and supporting data-driven decision-making.
 
 ---
 
 ##  About Me
 
-* 📊 Interested in **Data Analytics, Business Intelligence, and Data Visualization**
-* 🐍 Skilled in **Python, SQL, Power BI, Excel, Pandas, and NumPy**
-* 📈 Experienced in cleaning, analyzing, and visualizing data to uncover meaningful insights
-* 💼 Open to **Data Analyst opportunities**
+*  Interested in **Data Analytics, Business Intelligence, and Data Visualization**
+*  Skilled in **Python, SQL, Power BI, Excel, Pandas, and NumPy**
+*  Experienced in cleaning, analyzing, and visualizing data to uncover meaningful insights
+*  Open to **Data Analyst opportunities**
 
 ---
 
