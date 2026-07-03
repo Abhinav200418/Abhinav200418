@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 📊 Interested in **Data Analytics, Business Intelligence, and Data Visualization**
 * 🐍 Skilled in **Python, SQL, Power BI, Excel, Pandas, and NumPy**
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ### Programming & Databases
 
@@ -44,31 +44,31 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🛒 Retail Sales Analytics
+###  Retail Sales Analytics
 
 Analyzed retail sales data to identify trends, customer behavior, and business opportunities using Python and data visualization techniques.
 
-### 🚗 Used Car Price Analysis
+###  Used Car Price Analysis
 
 Built predictive models to estimate used car prices and identified the key factors influencing vehicle value.
 
-### ⚙️ Turbine Health Monitoring and Failure Forecasting
+###  Turbine Health Monitoring and Failure Forecasting
 
 Developed machine learning models to predict equipment failures and improve maintenance planning.
 
-### 🎓 Student Performance Analysis
+###  Student Performance Analysis
 
 Analyzed factors affecting student performance in online learning environments using statistical and machine learning techniques.
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 * GitHub: https://github.com/Abhinav200418
 * LinkedIn: https://www.linkedin.com/in/tedlapu-abhinav-bb4249276/
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
